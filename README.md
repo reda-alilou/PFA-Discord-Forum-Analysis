@@ -225,7 +225,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://claud
 ## 📞 Contact
 
 For questions or collaboration opportunities, please open an issue or contact the project maintainers.
-
----
-
-**Note**: This project analyzes public Discord forum data for educational and research purposes. All user identifiers have been anonymized to protect privacy.
