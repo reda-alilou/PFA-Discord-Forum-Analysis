@@ -221,7 +221,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://claud
 - FreeCodeCamp Discord community for providing the data source
 - Contributors to the manual question labeling process
 - Open source libraries that made this analysis possible
-
-## 📞 Contact
-
-For questions or collaboration opportunities, please open an issue or contact the project maintainers.
